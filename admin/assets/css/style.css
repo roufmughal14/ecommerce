@@ -1,0 +1,19 @@
+.page-title{
+    font-size: x-large !important;
+    font-weight: bold;
+}
+.parsley-examples{
+    display: flex;
+    padding-top: 4vh;
+    padding-bottom: 8vh;
+    justify-content: right;
+}
+.parsley-examples .form-control{
+    width: 40%;
+}
+#category-table tbody tr td{
+    vertical-align: middle !important;
+}
+#category-table tbody tr td img{
+    border-radius: 50%;
+}
